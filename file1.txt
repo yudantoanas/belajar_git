@@ -1,1 +1,12 @@
-halo ini file txt
+langkah untuk singkronisasi dengan repository github
+1. save file
+2. git add .
+3. git commit -m "isi pesan"
+4. git push
+
+untuk penamaan repository
+belajar.git X
+belajar_git... X
+belajar git X
+belajar_git V
+belajar-git123 V
